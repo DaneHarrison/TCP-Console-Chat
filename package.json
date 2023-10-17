@@ -1,0 +1,17 @@
+{
+  "name": "a1",
+  "version": "1.0.0",
+  "description": "assignment 1 for COMP 4300",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
